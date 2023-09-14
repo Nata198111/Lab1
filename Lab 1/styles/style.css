@@ -1,0 +1,26 @@
+header {
+    background-color: #af741d;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+content {
+    box-shadow: #af741d;
+}
+h1 {
+    text-align: center;
+    color: black;
+}
+footer {
+    text-align: center;
+    background-color: #af741d;
+}
+
+.footerText {
+    color: white;
+}
+
+.input {
+    margin: 10px 10px 10px 10px;
+}
